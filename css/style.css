@@ -31,6 +31,15 @@
 
 /* 1. IMPORT SECTION */
 
+#summerbrochures {
+	padding: 10px;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+
+
+}
+
 
 #programinfo {
 	position: absolute;
