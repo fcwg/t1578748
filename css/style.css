@@ -57,17 +57,7 @@ background-color: red;
 
 }
 
-.summercamps {
-  color: #DF0101;
-  background-color: none;
-  text-decoration: none;
-}
 
-
-.summercamps:hover {
-  color: #01A3D5;
-
-}
 
 
 .testipics {
@@ -275,6 +265,7 @@ nav ul ul {
 
 #navigation li a {
 		font-size: 17px;
+		font-family: "Times New Roman", Times, serif;
 	}
 
 #navigation{
@@ -283,6 +274,19 @@ nav ul ul {
 	bottom: 120px;
 	margin-bottom: -200px;
 	top: -130px;
+
+}
+
+.summercamps {
+  color: #DF0101;
+  background-color: none;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+.summercamps:hover {
+  color: #01A3D5;
 
 }
 
