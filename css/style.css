@@ -31,6 +31,11 @@
 
 /* 1. IMPORT SECTION */
 
+#makeuptext li {
+	color: #01A3D5;
+	font-weight: bold;
+}
+
 #summerbrochures {
 	padding: 10px;
 	margin-top: 20px;
