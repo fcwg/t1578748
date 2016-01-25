@@ -115,6 +115,13 @@ media img {
 	right: 5%;
 }
 
+#BlackSpace {
+		position: relative;
+		left: 90%;
+		height: 100%;
+		width: 100%;
+	}
+
 /*buttons*/
 
 /*buttons*/
@@ -461,12 +468,7 @@ nav ul ul {
 	  text-align: top;
 	}
 
-	#BlackSpace {
-		position: relative;
-		left: 90%;
-		height: 100%;
-		width: 100%;
-	}
+
 
 	#image3 {
 		height: 75%;
