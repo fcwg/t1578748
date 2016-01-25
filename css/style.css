@@ -31,6 +31,13 @@
 
 /* 1. IMPORT SECTION */
 
+#returnhome {
+	position: relative;
+	top: 25px;
+	right: 75px;
+}
+
+
 #makeuptext li {
 	color: #01A3D5;
 	font-weight: bold;
@@ -43,6 +50,10 @@
 	text-align: center;
 
 
+}
+
+#brochure1 #brochure2 {
+	display: inline-block;
 }
 
 
@@ -79,7 +90,7 @@ background-color: red;
 
 
 .news-block img {
-	width: 180px;
+	width: auto;
 	height: 120px;
 }
 
