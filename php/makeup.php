@@ -18,6 +18,6 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
-	<script>alert("Thank you for contacting us! We greatly value your business, and we'll be in touch shortly!");</script>
+	<script>alert("Thank you for contact us. As early as possible  we will contact you.");</script>
 	<meta HTTP-EQUIV="REFRESH" content="0; url=../makeup.html"> 
 </head>
