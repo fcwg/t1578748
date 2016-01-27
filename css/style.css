@@ -283,7 +283,7 @@ nav ul ul {
 
 #navigation li a {
 		font-size: 17px;
-		font-family: "Times New Roman", Times, serif;
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	}
 
 #navigation{
@@ -299,7 +299,7 @@ nav ul ul {
   color: #DF0101;
   background-color: none;
   text-decoration: none;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 
