@@ -31,6 +31,18 @@
 
 /* 1. IMPORT SECTION */
 
+.testipics {
+	border: 1px solid white;
+}
+
+
+.shadow {
+  box-shadow: 8px 8px 10px #aaa;
+/*  border: 1px solid gray;
+*/}
+
+
+
 #returnhome {
 	position: relative;
 	top: 25px;
