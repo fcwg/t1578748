@@ -365,7 +365,7 @@ nav ul ul {
 /*button css*/
 
 #biotext {
-	color: #01A3D5;
+	color: #fff;
 	position: relative;
 	top: 30%;
 }
@@ -483,10 +483,7 @@ nav ul ul {
 
 
 
-	#image3 {
-		height: 75%;
-		width: 75%;
-	}
+
 
 	/*Nav bar color*/
 
