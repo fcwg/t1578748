@@ -61,13 +61,16 @@
 	margin-top: 20px;
 	padding-bottom: 20px;
 	text-align: center;
+	
 
 
 }
 
-#brochure1 #brochure2 {
+#summerbrochures img {
 	display: inline-block;
 }
+
+
 
 
 #programinfo {
@@ -367,7 +370,7 @@ nav ul ul {
 #biotext {
 	color: #fff;
 	position: relative;
-	top: 30%;
+	top: 15%;
 }
 
 
