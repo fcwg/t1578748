@@ -31,6 +31,9 @@
 
 /* 1. IMPORT SECTION */
 
+#biotext {
+	padding: 30px;
+}
 
 .testipics {
 	border: 1px solid white;
@@ -370,7 +373,7 @@ nav ul ul {
 #biotext {
 	color: #fff;
 	position: relative;
-	top: 15%;
+	top: 5%;
 }
 
 
@@ -519,7 +522,8 @@ nav ul ul {
 		letter-spacing: 0.075em;
 		color: #333333;
 		background-color: #fff;
-		/*min-width: 1000px;	*/
+
+		min-width: 100%;	
 	}
 
 	a { 
