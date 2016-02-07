@@ -551,7 +551,7 @@ nav ul ul {
 		line-height: 1.7857;
 		letter-spacing: 0.075em;
 		color: #333333;
-		background-color: #E6E6E6;
+		background-color: #F2F2F2;
 
 		min-width: 100%;	
 	}
@@ -701,7 +701,7 @@ nav ul ul {
 
 	.st-navbar{
 		background-color: #fff;
-		border-bottom: 5px solid #f0f0f0;
+		border-bottom: 5px solid #D8D8D8;
 	}
 
 	.st-navbar ul{
