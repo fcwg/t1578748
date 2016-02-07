@@ -49,6 +49,15 @@ body {
     background-size: cover;
 } */
 
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    /*color: #fff;*/ /* old IE */
+    background-color: #fff; /* Modern Browsers */
+}
+
+
 #biotext {
 	padding: 30px;
 }
@@ -533,6 +542,8 @@ nav ul ul {
 		
 	}
 
+	/*body background-color*/
+
 	body {
 		font-family: "Raleway", Helvetica, Arial, sans-serif;
 		font-size: 14px;
@@ -540,7 +551,7 @@ nav ul ul {
 		line-height: 1.7857;
 		letter-spacing: 0.075em;
 		color: #333333;
-		background-color: #fff;
+		background-color: #E6E6E6;
 
 		min-width: 100%;	
 	}
@@ -683,11 +694,14 @@ nav ul ul {
 		margin-bottom: 0;
 		border-radius: 0;
 		color: #01A3D5;
+
 	}
+
+	/*header background-color*/
 
 	.st-navbar{
 		background-color: #fff;
-		border-bottom: 1px solid #f0f0f0;
+		border-bottom: 5px solid #f0f0f0;
 	}
 
 	.st-navbar ul{
