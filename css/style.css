@@ -31,6 +31,24 @@
 
 /* 1. IMPORT SECTION */
 
+/*background image*/
+
+/*html { 
+  background: url('images/nikesale.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body { 
+    background: url('images/NA.png') no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
+
 #biotext {
 	padding: 30px;
 }
@@ -210,8 +228,9 @@ body { font-family: 'roboto', Arial, Helvetica, sans-serif }
 .program_downloads ul { display:inline-text;}
 .program_downloads ul li {display:inline;}
 
-.program_contact h4 {
-	text-align: center;
+.program_contact button {
+	position: relative;
+	left: -3%;
 }
 
 .program_contact button {
